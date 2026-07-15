@@ -1,16 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/riffat-nourin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-## Hi there 👋
 
+Hi there, I am Riffat Nourin.
 
-Hi, I am Riffat Nourin.
 I am a fullstack engineer, from Auckland, New Zealand.
-- 🔭 I am experienced in React, Javascript, Node apis and .Net
-- 🌱 I am focused on exploring and implementing AI-driven capabilities to elevate the quality, speed, and intelligence of software development.
-- 
+- 🔭 I am experienced in React, Javascript, Node and C# and .Net
+- 🌱 I am focused on exploring and implementing AI-driven capabilities to elevate the quality, speed, and intelligence of website development.
+- <img width="23" height="22" alt="linked-no-bg" src="https://github.com/user-attachments/assets/09fa4879-d028-4934-8dd6-8a484d523a26" />
+You can find more about me on my <a href="https://www.linkedin.com/in/riffat-nourin">Linkedin, here</a>
